@@ -11,9 +11,7 @@ Word Ladder Solver using UCS, GBFS, and A*.
 
 ## General Information
 
-```
-WordLadder adalah permainan yang bertujuan menemukan rantai kata yang dapat menghubungkan antara start word dan end word
-```
+WordLadder adalah permainan yang bertujuan menemukan rantai kata yang dapat menghubungkan antara start word dan end word. Program ini adalah program untuk mencari solusi dari permainan WordLadder dengan menggunakan algoritma Unified Cost Search, Greedy Best First Search, dan A*.
 
 ## How to Run
 
