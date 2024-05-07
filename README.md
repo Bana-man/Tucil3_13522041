@@ -1,13 +1,5 @@
 # Tugas-Kecil-Strategi-Algoritma-2024-13522041
 
-<!--
-i. Penjelasan singkat algoritma greedy yang diimplementasikan
-ii. Requirement program dan instalasi tertentu bila ada
-iii. Command atau langkah-langkah dalam meng-compile atau build
-program
-iv. Author (identitas pembuat)
--->
-
 Word Ladder Solver using UCS, GBFS, and A*.
 
 ## Table of Contents
@@ -20,14 +12,14 @@ Word Ladder Solver using UCS, GBFS, and A*.
 ## General Information
 
 ```
-<ISI INFORMASI>
+WordLadder adalah permainan yang bertujuan menemukan rantai kata yang dapat menghubungkan antara start word dan end word
 ```
 
 ## How to Run
 
 1. Install Requirements:
 
-- Python 3 (https://www.python.org/downloads/)
+- OpenJDK (https://www.oracle.com/)
 
 
 2. Clone this repository.
@@ -62,23 +54,13 @@ $ java WordLadderSolver
 │   README.md
 |
 └───doc
-|   └───Progress1_G03.pdf
-|       Progress2_G03.pdf
-|       Laporan_G03.pdf
+|   └───Tucil3_13522041.pdf
 |
 └───src
-|   └───attack.pl
-|       dynamicfacts.pl
-|       initiate.pl
-|       map.pl
-|       player.pl
-|       risk.pl
-|       rules.pl
-|       staticfacts.pl
-|       troops.pl
-|       turn.pl
-|       utilities.pl
-|       wilayah.pl
+|   └───WordLadderSolver.java
 |
 └───test
+    └───defaultDict.txt
+    └───formatted
+        └───defaultDict.txt
 ```
